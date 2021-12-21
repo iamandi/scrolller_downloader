@@ -1,0 +1,65 @@
+{
+  "data": {
+    "getFavorites": {
+      "iterator": "MTg3OTQxODQ=",
+      "items": [
+        {
+          "__typename": "SubredditPost",
+          "url": "/just-adopted-this-mischievous-guy-into-my-life-amz73qmif2",
+          "title": "Just adopted this mischievous guy into my life",
+          "subredditTitle": "WestHighlandTerriers",
+          "subredditUrl": "/r/WestHighlandTerriers",
+          "redditPath": "/r/WestHighlandTerriers/comments/21brun/just_adopted_this_mischievous_guy_into_my_life/",
+          "isNsfw": false,
+          "albumUrl": null,
+          "isFavorite": true,
+          "mediaSources": [
+            {
+              "url": "https://zepto.scrolller.com/just-adopted-this-mischievous-guy-into-my-life-cyuni8cvzo-540x720.jpg",
+              "width": 540,
+              "height": 720,
+              "isOptimized": true
+            },
+            {
+              "url": "https://zepto.scrolller.com/just-adopted-this-mischievous-guy-into-my-life-cyuni8cvzo-810x1080.jpg",
+              "width": 810,
+              "height": 1080,
+              "isOptimized": true
+            },
+            {
+              "url": "https://zepto.scrolller.com/just-adopted-this-mischievous-guy-into-my-life-cyuni8cvzo-1080x1440.jpg",
+              "width": 1080,
+              "height": 1440,
+              "isOptimized": true
+            },
+            {
+              "url": "https://atto.scrolller.com/just-adopted-this-mischievous-guy-into-my-life-cyuni8cvzo.jpg",
+              "width": 1836,
+              "height": 2448,
+              "isOptimized": false
+            }
+          ]
+        },
+        {
+          "__typename": "SubredditPost",
+          "url": "/my-gamer-girl-3uyym86ixx",
+          "title": "My gamer girl",
+          "subredditTitle": "StuffOnCats",
+          "subredditUrl": "/r/StuffOnCats",
+          "redditPath": "/r/StuffOnCats/comments/cktxmc/my_gamer_girl/",
+          "isNsfw": false,
+          "albumUrl": null,
+          "isFavorite": true,
+          "mediaSources": [
+            {
+              "url": "https://yocto.scrolller.com/my-gamer-girl-9wf14vpofk.jpg",
+              "width": 640,
+              "height": 640,
+              "isOptimized": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
